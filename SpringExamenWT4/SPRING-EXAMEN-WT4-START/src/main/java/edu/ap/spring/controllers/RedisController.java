@@ -29,10 +29,6 @@ public class RedisController {
 		   Set<byte[]> reden = service.setKey(key, html);
 		   Set<byte[]> datum = service;
 		   
-		   
-		   
-		   
-		   
 	   }
 	   
 	   
